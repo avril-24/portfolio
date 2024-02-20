@@ -5,13 +5,13 @@ This is a portfolio of my projects showcasing skills I acquired on the bootcamp
 
 ### Table of Contents
 - [Project 1 - Time Use Analysis](#project-1---time-use-analysis)
-- [Overview](#overview)
-- [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Data Analysis](#data-analysis)
-- [Data Filtering](#data-filtering)
-- [Data aggregation & transformation](#data-aggregation--transformation)
-- [Data Visualisation](#data-visualisation)
+  - [Overview](#overview)
+  - [Tools](#tools)
+  - [Data Cleaning/Preparation](#data-cleaningpreparation)
+  - [Data Analysis](#data-analysis)
+  - [Data Filtering](#data-filtering)
+  - [Data aggregation & transformation](#data-aggregation--transformation)
+  - [Data Visualisation](#data-visualisation)
 
 ## Project 1 - Time Use Analysis
 
