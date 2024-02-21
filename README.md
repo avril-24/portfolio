@@ -14,7 +14,7 @@ This is a portfolio of my projects showcasing skills I acquired on the bootcamp
 
 #### Overview
 
-This data analysis project aims to provide insight into time use gender differences across the world, by analysing The OECD (Organisation for Economic Co-operation and Development) Time Use Database. 
+This data analysis project aims to provide insight into time use gender differences across the world, by analysing the OECD (Organisation for Economic Co-operation and Development) Time Use Database. 
 
 #### Data Sources
 - The OECD Time Use Database
