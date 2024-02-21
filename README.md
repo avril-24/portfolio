@@ -6,12 +6,9 @@ This is a portfolio of my projects showcasing skills I acquired on the bootcamp
 ### Table of Contents
 - [Project 1 - Time Use Analysis](#project-1---time-use-analysis)
   - [Overview](#overview)
+  - [Data Sources](#data-sources)
   - [Tools](#tools)
-  - [Data Cleaning/Preparation](#data-cleaningpreparation)
   - [Data Analysis](#data-analysis)
-  - [Data Filtering](#data-filtering)
-  - [Data aggregation & transformation](#data-aggregation--transformation)
-  - [Data Visualisation](#data-visualisation)
 
 ## Project 1 - Time Use Analysis
 
@@ -21,10 +18,10 @@ This data analysis project aims to provide insight into time use gender differen
 
 #### Data Sources
 - The OECD Time Use Database
-  - consolidates datasets of large-scale time-use surveys conducted by national statistical agencies. Surveys classify day-to-day activities across the duration of 24 hours (1,440 minutes).  The dataset provides the average time use for OECD countries plus China, India, and South Africa.
+  - consolidates datasets of large-scale time-use surveys conducted by national statistical agencies. Surveys classify day-to-day activities across the duration of 24 hours (1,440 minutes).  The dataset provides the average time use for OECD countries plus China, India, and South Africa. [Download here](https://data-explorer.oecd.org/vis?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CWell-being%20and%20beyond%20GDP%23SOC_WEL%23&pg=0&fc=Topic&bp=true&snb=1&vw=ov&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_TIME_USE%40DF_TIME_USE&df[ag]=OECD.WISE.INE&df[vs]=1.0&dq=.._T&ly[rw]=REF_AREA&ly[cl]=MEASURE&to[TIME]=false)
 
 - GDP per Capita
-  - GDP (in USD) Per Capita Income by Country - uploaded April 2023 Available at Kaggle
+  - GDP (in USD) Per Capita Income by Country - uploaded April 2023 Available at Kaggle [Download here](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country?resource=download)
 
 #### Tools
 - Pandas
@@ -33,58 +30,16 @@ This data analysis project aims to provide insight into time use gender differen
 - Matplotlib and Seaborn
   - data visualisation
 
-#### Data Cleaning/Preparation
-- Initial EDA (exploratory data analysis)
-  - data shape
-  - data description
-  - data types
-  - unique values and counts in categorical variables
-
-- Check for:
-  - missing values
-  - invalid data
-- Removal of:
-    - data not required
-    - missing values
-    - incorrect values
-- Conversion of values to an appropriate data type
-- Update incorrect values
-- Rename column names
-
 #### Data Analysis
-- What is the mean time taken for activities?
+- What is the mean time taken for daily activities?
 - Which countries record highest and lowest times for activities?
-- How does time use vary between men and women, by region and country's income level?
+- How does time use vary by gender, region and country's income level?
 - How does time use vary between countries with low and high gender differences in
-  - leisure time
-  - over all activities
+  - leisure time?
+  - over all activities?
 - What is the relationship between time for activities and GDP per Capita, for men and women?
   
-#### Data Filtering
-- Masks – row selection
-- Defining function
-        -Conditional expressions
-        -Sorting 
-        -indexing
 
-#### Data aggregation & transformation 
-- Data aggregation: combining data from several sources
-- Joining datasets:  using .merge() method
-- Data transformation:  using .groupby() and .pivot()
-- Additional columns: for returned calculation results
-
-#### Data Visualisation
-  - violin plot
-  - catplot 
-    - multi rows
-    - multi columns
-  - correlation heatmap
-  - jointplot 
-  - scatterplot 
-  - barplot
-  - lmplot
-    - multi columns
-  - subplots
         
 
  
