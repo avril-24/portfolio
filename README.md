@@ -9,7 +9,7 @@ This is a portfolio of my projects showcasing skills I acquired on the bootcamp
   - [Data Sources](#data-sources)
   - [Tools](#tools)
   - [Data Analysis](#data-analysis)
-  - [Time Use Jupyter Notebook](https://anaconda.cloud/share/notebooks/af90894a-a641-4e56-a736-0d608711cfa3/overview)
+- [Time Use Jupyter Notebook](https://anaconda.cloud/share/notebooks/af90894a-a641-4e56-a736-0d608711cfa3/overview)
 
 ## Project 1 - Time Use Analysis
 
